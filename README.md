@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avika08
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning ml
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me https://in.linkedin.com/in/avika-gupta-529105221
 
